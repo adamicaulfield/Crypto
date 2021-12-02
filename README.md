@@ -1,4 +1,5 @@
-# Code for Foundations of Cryptogrpahy (CSCI662) Homework
+# Code for Foundations of Cryptogrpahy (CSCI662)
+This repo contains miscellaneous programs for written by Adam Caulfield (ac7717@rit.edu) for the cryptography course CSCI662
 
 ## How to run
 They are all python programs which can be executed as python scripts.
